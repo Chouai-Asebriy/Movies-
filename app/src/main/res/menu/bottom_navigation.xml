@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_popular"
+        android:icon="@drawable/ic_star_white_24dp"
+        android:title="Popular" />
+
+    <item
+        android:id="@+id/nav_upcomming"
+        android:icon="@drawable/ic_new_white_24dp"
+        android:title="Upcoming" />
+
+    <item
+        android:id="@+id/nav_search"
+        android:icon="@drawable/ic_search_white_24dp"
+        android:title="Search" />
+
+    <item
+        android:id="@+id/nav_favorites"
+        android:icon="@drawable/ic_favorite_24"
+        android:title="Favorites" />
+</menu>
